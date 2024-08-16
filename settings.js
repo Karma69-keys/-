@@ -4,26 +4,26 @@
 //Instagram: mikael_jordan
 //Telegram: t.me/darklimule
 //GitHub: @Limule3650
-//WhatsApp: +237693538738
+//WhatsApp: +242066328691
 //want more free bot scripts? subscribe to my youtube channel: https://www.youtube.com/@Darklimule
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237698581946"
-global.ownername = "🐉 Limule Solitarus"
+global.ownernomer = "242066328691"
+global.ownername = "dark joker"
 global.ytname = "YT: Deaethgun635"
-global.socialm = "GitHub: Limule3650"
+global.socialm = "GitHub: dark345"
 global.location = "India, Rampur, city"
 
-global.ownernumber = '237698581946'  //creator number
-global.ownername = '🐉 Limule Solitarus' //owner name
+global.ownernumber ='242066328691'  //creator number
+global.ownername = '242066328691' //owner name
 global.botname = 'DEATH RAPHAEL-BUG' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Limule Solitarus\n\nContact: +237698581946'
+global.author = 'Limule Solitarus\n\nContact: +242066328691'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -33,13 +33,13 @@ global.wm = "Limule Solitarus Bot Inc."
 global.link = 'https://whatsapp.com/channel/0029Vafhjw0IXnlonRAQMM2l'
 
 //custom prefix
-global.prefa = ['','!','.','#','&','•']
+global.prefa = ['!']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = true //auto typing + recording
-global.autoread = false //auto read messages
+global.autoread = true //auto read messages
 global.autobio = true //auto update bio
 global.anti92 = false //auto block +92 
 global.autoswview = true //auto view status/story
